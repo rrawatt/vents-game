@@ -1,4 +1,4 @@
-#Vents
+##Vents
 
 ## Overview
 **Vents** is a fun and engaging board game, inspired by the classic "Snakes and Ladders" game, but with a twist! In this version, players are transported randomly to other vents on the board, which could either help or hinder their progress. Instead of snakes and ladders, the game features **vents** that move players to different parts of the board, potentially advancing them or sending them backward.
